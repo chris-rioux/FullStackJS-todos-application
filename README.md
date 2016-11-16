@@ -1,4 +1,4 @@
-FUllStackJS project leveraging the stack below to develop a JavaScript To Do's application.
+FullStackJS project leveraging the stack below to develop a JavaScript To Do's application.
 
   - HTML5
   - CSS3
